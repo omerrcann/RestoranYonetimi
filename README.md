@@ -3,7 +3,6 @@
 ![Language](https://img.shields.io/badge/language-C%2B%2B17-blue)
 ![Build](https://img.shields.io/badge/build-CMake-green)
 ![Architecture](https://img.shields.io/badge/architecture-3--Tier-orange)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 **Restoran Yönetim Sistemi**, bir restoranın masa düzeninden sipariş takibine, stok yönetiminden personel performansına kadar tüm süreçlerini dijitalleştiren; **Modern C++** ve **Katmanlı Mimari** prensipleriyle geliştirilmiş kapsamlı bir otomasyon projesidir.
 
