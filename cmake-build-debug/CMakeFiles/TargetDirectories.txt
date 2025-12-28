@@ -1,0 +1,3 @@
+C:/Users/sarme/RestoranYonetimi/cmake-build-debug/CMakeFiles/restoran_yonetim.dir
+C:/Users/sarme/RestoranYonetimi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sarme/RestoranYonetimi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
